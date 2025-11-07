@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=black" /> <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
 
 ## 📫 Contact
-email: elin.ye.joon@gmail.com
+email: elin.ye.joon@gmail.com or pipining4470@naver.com
